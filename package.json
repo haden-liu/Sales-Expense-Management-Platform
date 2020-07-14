@@ -1,0 +1,22 @@
+{
+  "name": "sales-expense-management-platform",
+  "version": "1.0.0",
+  "description": "Web app to manage expense claims by sales staff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haden-liu/Sales-Expense-Management-Platform.git"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "Haden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haden-liu/Sales-Expense-Management-Platform/issues"
+  },
+  "homepage": "https://github.com/haden-liu/Sales-Expense-Management-Platform#readme"
+}
