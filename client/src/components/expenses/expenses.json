@@ -1,0 +1,18 @@
+  [ 
+    {
+        "title": "Train Fare",
+        "date": "10/08/2020",
+        "category": "Travel",
+        "clienttocharge": "Essilor",
+        "amount": "40.00",
+        "notes": "none"
+    },
+    {
+        "title": "Flight Expense",
+        "date": "12/08/2020",
+        "category": "Travel",
+        "clienttocharge": "Essilor",
+        "amount": "145.00",
+        "notes": "none"
+    }
+]
