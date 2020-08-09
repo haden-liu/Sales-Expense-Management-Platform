@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/haden-liu/static/css/main.81f9f151.chunk.css",
+    "main.js": "/haden-liu/static/js/main.73107a6f.chunk.js",
+    "main.js.map": "/haden-liu/static/js/main.73107a6f.chunk.js.map",
+    "runtime-main.js": "/haden-liu/static/js/runtime-main.1a79192e.js",
+    "runtime-main.js.map": "/haden-liu/static/js/runtime-main.1a79192e.js.map",
+    "static/css/2.b90ce945.chunk.css": "/haden-liu/static/css/2.b90ce945.chunk.css",
+    "static/js/2.da9a1fca.chunk.js": "/haden-liu/static/js/2.da9a1fca.chunk.js",
+    "static/js/2.da9a1fca.chunk.js.map": "/haden-liu/static/js/2.da9a1fca.chunk.js.map",
+    "index.html": "/haden-liu/index.html",
+    "precache-manifest.e6c98fdb12fc7eb7dd27c3f21b13456c.js": "/haden-liu/precache-manifest.e6c98fdb12fc7eb7dd27c3f21b13456c.js",
+    "service-worker.js": "/haden-liu/service-worker.js",
+    "static/css/2.b90ce945.chunk.css.map": "/haden-liu/static/css/2.b90ce945.chunk.css.map",
+    "static/css/main.81f9f151.chunk.css.map": "/haden-liu/static/css/main.81f9f151.chunk.css.map",
+    "static/js/2.da9a1fca.chunk.js.LICENSE.txt": "/haden-liu/static/js/2.da9a1fca.chunk.js.LICENSE.txt",
+    "static/media/background.jpg": "/haden-liu/static/media/background.a6aab40b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a79192e.js",
+    "static/css/2.b90ce945.chunk.css",
+    "static/js/2.da9a1fca.chunk.js",
+    "static/css/main.81f9f151.chunk.css",
+    "static/js/main.73107a6f.chunk.js"
+  ]
+}
